@@ -1,11 +1,7 @@
-# Project Title
-
-This is a brief description of the project.
-
 ## Screenshot
-
-Below is a screenshot illustrating the interface:
+Below is a screenshot output from the code for the given assignment from Dilip Govindaraj from Delightree:
 
 ![Interface Screenshot](https://i.sstatic.net/kygiL9b8.png)
 
-This image showcases the main dashboard where users can track their progress in real-time.
+This image showcases each user's total number of posts, comments, likes, and views, grouped by age range.
+
